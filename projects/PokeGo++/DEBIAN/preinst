@@ -1,4 +1,0 @@
-#!/bin/sh
-
-# Fetching configuration from debconf
-db_get PokePatch
