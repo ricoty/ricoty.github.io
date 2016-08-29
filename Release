@@ -1,0 +1,7 @@
+Origen: ric0ty public repository
+Label: ric0ty public repo
+Suite: stable
+Version: 1.0
+Architecture: iphoneos-arm
+Components: main
+Description: Ric0ty Public Repo
