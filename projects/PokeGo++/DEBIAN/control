@@ -1,0 +1,10 @@
+Package: com.ric0ty.pokegopp
+Name: Poke Go ++
+Version: 1.5r-34
+Architecture: iphoneos-arm
+Description: Poke go ++ the must have tweak for pokemon go.
+Depends: PokePatch
+Homepage: http://makooy.nl/
+Maintainer: ric0ty
+Author: Unlimapps Inc
+Section: Tweaks

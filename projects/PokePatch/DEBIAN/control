@@ -1,0 +1,9 @@
+Package: com.ric0ty.pokeptch
+Name: PokePatch
+Version: 1.0r-3
+Architecture: iphoneos-arm
+Description: Make pokemon go work on JB devices.
+Homepage: http://makooy.nl/
+Maintainer: ric0ty
+Author: Unlimapps Inc
+Section: Tweaks

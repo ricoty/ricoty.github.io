@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>showJoystick_PG</key>
+	<true/>
+	<key>perfectThrow_PG</key>
+	<false/>
+	<key>movementSpeed_PG</key>
+	<integer>0</integer>
+	<key>shouldFakeLocation_PG</key>
+	<false/>
+	<key>timeToSaveLocation_PG</key>
+	<integer>2</integer>
+	<key>dismissRadarOnTapToWalk_PG</key>
+	<false/>
+	<key>originMenuFrame_PG</key>
+	<string>{5,60}</string>
+	<key>sharePokemonData_PG</key>
+	<true/>
+</dict>
+</plist>
