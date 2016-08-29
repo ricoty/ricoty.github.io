@@ -4,30 +4,14 @@ Architecture: iphoneos-arm
 Maintainer: ric0ty
 Filename: ./debs/com.ric0ty.ipokego_2.2.0-1_iphoneos-arm.deb
 Size: 43136104
-MD5sum: 41d664dfda1a3c33bd640245a6d41fe2
-SHA1: f34679c9b8c8556909fb4fc0dbe6eb482d008586
-SHA256: da10cd733453974fabb27962f282355214db68a3deb5f26cb2361329db755e41
+MD5sum: 8c0f0382274409db99160f7f0eb316c0
+SHA1: 74508cc3fb90c52cfd348364c3837fdff01ffed8
+SHA256: d80586087801a30a7ae109bee6e7dc1037314d9c89fd76e805cb3240d808baf6
 Section: Utilities
 Homepage: http://makooy.nl/
 Description: iPokeGo is an ios portal for the popular pokemongo-map and pogom mapping tools.
 Author: istornz
 Name: iPokeGo
-
-Package: com.ric0ty.pokegopp
-Version: 1.5r-34
-Architecture: iphoneos-arm
-Maintainer: ric0ty
-Depends: PokePatch
-Filename: ./debs/com.ric0ty.pokegopp_1.5r-34_iphoneos-arm.deb
-Size: 17738010
-MD5sum: d35e407bd8c3892321e1c29a6d767240
-SHA1: c526246b21a5dd5081f344d18a438d28d9b78e99
-SHA256: 38f7921467e69424a408be922c37d3591c22749af2e1c048a60c360b02b78315
-Section: Tweaks
-Homepage: http://makooy.nl/
-Description: Poke go ++ the must have tweak for pokemon go.
-Author: Unlimapps Inc
-Name: Poke Go ++
 
 Package: com.ric0ty.pokeptch
 Version: 1.0r-3
@@ -35,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer: ric0ty
 Filename: ./debs/com.ric0ty.pokeptch_1.0r-3_iphoneos-arm.deb
 Size: 8048
-MD5sum: 38baadf2cec99d6f1a903dffe71ae15d
-SHA1: d14f2e9d6afbf41fc278a6c056b00bc1227ffe4e
-SHA256: 24c3daacaa45c657248d2ea6e544c927b36e1d680b57001483a8afe998559f47
+MD5sum: 814b75f4eeaa2f8f7c521ffce70dd146
+SHA1: 2f86d32c48aead10ead23ca8dc3cc425dec6121b
+SHA256: e736bcceee2d596c79847a48b99a76beb64b01cf5d00552d48b85209a4526251
 Section: Tweaks
 Homepage: http://makooy.nl/
 Description: Make pokemon go work on JB devices.
