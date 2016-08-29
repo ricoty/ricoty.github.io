@@ -1,0 +1,15 @@
+Package: com.ric0ty.iPokeGo
+Version: 2.2.0-1
+Architecture: iphoneos-arm
+Maintainer: ric0ty
+Filename: ./debs/com.ric0ty.ipokego_2.2.0-1_iphoneos-arm.deb
+Size: 43136160
+MD5sum: b3fa9b5a3050f07c9e9276ffd619d1c2
+SHA1: 1429e219c58f8ceca2b6554345056b63c02c0ecd
+SHA256: 515d9503170db61d12709def77d70040acf111984fb0c732148a7ecb0b936d0b
+Section: Applications
+Homepage: http://makooy.nl/
+Description: iPokeGo is an ios portal for the popular pokemongo-map and pogom mapping tools.
+Author: istornz
+Name: iPokeGo
+
